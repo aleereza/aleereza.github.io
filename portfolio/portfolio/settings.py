@@ -27,7 +27,7 @@ with open(os.path.join(BASE_DIR, 'secret_key.txt')) as f:
 # DEBUG = False
 DEBUG = True
 
-ALLOWED_HOSTS = ["www.deepneu.com", '127.0.0.1']
+ALLOWED_HOSTS = ["www.deepneu.com", '127.0.0.1', 35.185.121.56]
 
 
 # Application definition
