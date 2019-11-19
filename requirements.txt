@@ -1,9 +1,0 @@
-Django==2.0.2
-hdbscan==0.8.12
-numpy==1.14.1
-pandas==0.22.0
-python-dateutil==2.6.1
-pytz==2018.3
-scikit-learn==0.19.1
-six==1.11.0
-uWSGI==2.0.16
